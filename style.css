@@ -34,11 +34,13 @@ nav a:hover {
 .button {
     display: inline-block;
     background-color: #4caf50;
-    padding: 10px 20px;
-    margin-top: 20px;
+    padding: 12px 25px;
     color: white;
     text-decoration: none;
     border-radius: 6px;
+    font-weight: bold;
+    width: 250px;
+    text-align: center;
 }
 
 .button:hover {
